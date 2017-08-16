@@ -66,9 +66,9 @@ $translations = array(
   'Disclaimer' =>
     '免責聲明',
   'By participating in the contest, you agree to release Facebook and its employees, and the hosting organization from any and all liability, claims or actions of any kind whatsoever for injuries, damages or losses to persons and property which may be sustained in connection with the contest. You acknowledge and agree that Facebook et al is not responsible for technical, hardware or software failures, or other errors or problems which may occur in connection with the contest.' =>
-    '當您參與比賽時，您同意放棄任何及所有對 Facebook 和其員工以及託管組織在競賽連線期間對人身和財產的任何損失或損害產生的與其相關的任何損害或損失責任的索賠。',
+    '當您參與比賽時，您同意放棄任何及所有對 NISRA 和其成員以及託管組織在競賽連線期間對人身和財產的任何損失或損害產生的與其相關的任何損害或損失責任的索賠。',
   'If you have any questions about what is or is not allowed, please ask an organizer.' =>
-    '如果您對上述問題有疑慮，請立即向託管組織反映。',
+    '如果您對上述問題有疑慮，請立即向管理員反映。',
   'Have fun!' =>
     '玩得愉快！',
   'Name' =>
